@@ -8,16 +8,16 @@ O Agente II - Planejador de Carreira
 
 
 
-O primeiro, foca em entender o perfil profissional das pessoas que estão querendo aprender ou imigrando para a àrea de tecnologia. Cria-se um Prompt detalhado daquilo que IA precisa realizar, as regras que deve seguir, os requisitos e assim criando perguntas para 
+- O primeiro, foca em entender o perfil profissional das pessoas que estão querendo aprender ou imigrando para a àrea de tecnologia. Cria-se um Prompt detalhado daquilo que IA precisa realizar, as regras que deve seguir, os requisitos e assim criando perguntas para 
 compreender o usuário, e com base nas informações o resultado que se espera são três profissões que se encaixam no perfil e fazer o usuário escolher uma dessas citadas. 
 
 
-O segundo, utiliza as informações do primeiro para criar um plano de estudo (RoadMap) e com requisitos para a inteligência artificial criar o melhor plano possível de estudos das tecnologias necessárias para um emprego na carreira escolhida pelo próprio usuário.
+- O segundo, utiliza as informações do primeiro para criar um plano de estudo (RoadMap) e com requisitos para a inteligência artificial criar o melhor plano possível de estudos das tecnologias necessárias para um emprego na carreira escolhida pelo próprio usuário.
 Ele coloca a quantidadde de meses e horas disponíveis de estudo e com base nisso o agente colocará as tecnologias e o tempo que precisará aprender cada uma, dando um passo a passo. 
 
 
 
-Como conclusão do projeto/curso, interessante para aqueles que estão començando na área ou que querem imigrar de carreira e o Bootcamp da Caixa ensina justamente sobre a Inteligência Artifical, poder colocar em prática aquilo que foi ensinado e tendo uma orientação 
+- Como conclusão do projeto/curso, interessante para aqueles que estão començando na área ou que querem imigrar de carreira e o Bootcamp da Caixa ensina justamente sobre a Inteligência Artifical, poder colocar em prática aquilo que foi ensinado e tendo uma orientação 
 daquilo que devo estudar me deixar mais confiante para seguir a carreira de tecnologia, assim percebemos que a Inteligência Artificial é uma ferramenta essencial para auxíliar nos estudos e criação de um plano focado nos seus requisitos deixando o usuário a vontade 
 colocando dados que se referem ao seu dia a dia.
 
